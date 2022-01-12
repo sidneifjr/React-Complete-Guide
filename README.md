@@ -1,4 +1,4 @@
-### Progress
+# Progress
 
 Currently at lesson 38.
 
