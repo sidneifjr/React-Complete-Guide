@@ -1,6 +1,6 @@
 # Progress
 
-Currently at lesson 38.
+Currently at lesson 49 (Introduction to Hooks, starting with useState).
 
 # Getting Started with Create React App
 
