@@ -1,6 +1,6 @@
 # Progress
 
-Currently at lesson 49 (Introduction to Hooks, starting with useState).
+Currently at lesson 52 (Adding form inputs).
 
 # Getting Started with Create React App
 
