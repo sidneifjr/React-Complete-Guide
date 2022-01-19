@@ -1,6 +1,6 @@
 # Progress
 
-Currently at lesson 52 (Adding form inputs).
+Currently at lesson 55 (Using one state, instead of multiple).
 
 # Getting Started with Create React App
 
