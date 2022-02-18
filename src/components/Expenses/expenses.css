@@ -1,3 +1,7 @@
+html {
+    background: #404040;
+}
+
 .expenses {
     padding: 1rem;
     background-color: rgb(31, 31, 31);
