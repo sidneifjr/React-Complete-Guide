@@ -1,6 +1,6 @@
 # Progress
 
-Currently at lesson 68 (Adding Conditional Return Statements).
+Currently at lesson 68 - assignment 4 (Time to Practice: Conditional Content).
 
 # Getting Started with Create React App
 
